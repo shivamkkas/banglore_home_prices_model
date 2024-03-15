@@ -1,0 +1,7 @@
+Flask==2.0.2
+Flask-RESTful==0.3.9
+requests==2.26.0
+pandas==1.4.1
+numpy==1.22.2
+matplotlib==3.5.1
+scikit-learn==1.0.2
