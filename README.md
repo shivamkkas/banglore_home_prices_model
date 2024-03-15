@@ -1,4 +1,5 @@
-Bangalore Home Prices Prediction Model
+#Bangalore Home Prices Prediction Model
+
 This project aims to create a machine learning model to predict home prices in Bangalore, India. The model is built using Python and various libraries such as scikit-learn, pandas, and numpy.
 
 Dataset
